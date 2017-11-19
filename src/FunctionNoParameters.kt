@@ -8,7 +8,6 @@ fun helloThere() {
     println("Hello There!")
 }
 
-fun printSimpleName(name : String): Unit {
+fun printSimpleName(name : String): Unit { // Here Unit return type is optional
     println("Name is $name")
 }
-
