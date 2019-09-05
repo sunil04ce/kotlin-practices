@@ -4,7 +4,6 @@
     <list default="true" id="6c2453a3-7502-4fa8-8c2e-e5d3f81b6970" name="Default" comment="added new classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/udemy/SimpleIfElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/SimpleIfElse.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemy.NestedIfKt">
+  <component name="RunManager" selected="Kotlin.udemy.WhileDoWhileKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -81,27 +80,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.LogicConditionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.ExpressionConditionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.LogicConditionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="udemy.ModifyVariableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.ModifyVariableKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.ExpressionConditionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,14 +106,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.SimpleIfElseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.SimpleForKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.SimpleIfElseKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.SimpleForKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,6 +127,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="udemy.WhenMenuKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.WhileDoWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.WhileDoWhileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udemy.ModifyVariableKt" />
-      <item itemvalue="Kotlin.udemy.LogicConditionKt" />
-      <item itemvalue="Kotlin.udemy.SimpleIfElseKt" />
       <item itemvalue="Kotlin.udemy.WhenMenuKt" />
       <item itemvalue="Kotlin.udemy.NestedIfKt" />
+      <item itemvalue="Kotlin.udemy.ExpressionConditionKt" />
+      <item itemvalue="Kotlin.udemy.SimpleForKt" />
+      <item itemvalue="Kotlin.udemy.WhileDoWhileKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.udemy.WhileDoWhileKt" />
+        <item itemvalue="Kotlin.udemy.SimpleForKt" />
+        <item itemvalue="Kotlin.udemy.ExpressionConditionKt" />
         <item itemvalue="Kotlin.udemy.NestedIfKt" />
         <item itemvalue="Kotlin.udemy.WhenMenuKt" />
-        <item itemvalue="Kotlin.udemy.SimpleIfElseKt" />
-        <item itemvalue="Kotlin.udemy.LogicConditionKt" />
-        <item itemvalue="Kotlin.udemy.ModifyVariableKt" />
       </list>
     </recent_temporary>
   </component>
