@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c2453a3-7502-4fa8-8c2e-e5d3f81b6970" name="Default" comment="added new classes">
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/AdditionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/ConvertDataTypeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/DivisionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/DoWhileLoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/ForLoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/FunctionsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/HelloKotlinKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/ReadInputKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VarAndValKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VariableDefinitionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VariableTypeBooleanKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VariableTypeCharKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VariableTypeFloatKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VariableTypeIntKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VariableTypeStringKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/VaribleTypeDoubleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/WhenKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/WhileLoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionalCollection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionalCollection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/DataTypesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/DataTypes.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1PSp5kT4jVEe2DDlZ8NgxwQmuei" />
   <component name="ProjectLevelVcsManager">
@@ -59,11 +39,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549731482386" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/udemy" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.DataTypesKt">
+  <component name="RunManager" selected="Kotlin.udemy.MathOperationKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -118,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DataTypesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FunctionalCollectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
@@ -144,14 +116,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.DataTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GenericsClassKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.DataTypesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.MathOperationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.MathOperationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,12 +164,13 @@
       <item itemvalue="Application.GZipSample" />
       <item itemvalue="Kotlin.AdditionKt" />
       <item itemvalue="Kotlin.FunctionalCollectionKt" />
-      <item itemvalue="Kotlin.GenericsClassKt" />
-      <item itemvalue="Kotlin.DataTypesKt" />
+      <item itemvalue="Kotlin.udemy.DataTypesKt" />
+      <item itemvalue="Kotlin.udemy.MathOperationKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DataTypesKt" />
+        <item itemvalue="Kotlin.udemy.MathOperationKt" />
+        <item itemvalue="Kotlin.udemy.DataTypesKt" />
         <item itemvalue="Kotlin.FunctionalCollectionKt" />
         <item itemvalue="Kotlin.AdditionKt" />
         <item itemvalue="Application.GZipSample" />
