@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6c2453a3-7502-4fa8-8c2e-e5d3f81b6970" name="Default" comment="added new classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/DataTypesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/FunctionalCollectionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/FunctionalCollectionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/Login.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/udemy/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/DataTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/Person.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,17 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemy.MathOperationKt">
+  <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GZipSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GZipSample" />
-      <module name="KotlinPractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,32 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdditionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="AdditionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionalCollectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionalCollectionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="udemy.DataTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
@@ -129,6 +97,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="udemy.LogicConditionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.LogicConditionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="udemy.MathOperationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
@@ -137,6 +118,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="udemy.MathOperationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.ModifyVariableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.ModifyVariableKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.SimpleIfElseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.SimpleIfElseKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -161,19 +168,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GZipSample" />
-      <item itemvalue="Kotlin.AdditionKt" />
-      <item itemvalue="Kotlin.FunctionalCollectionKt" />
       <item itemvalue="Kotlin.udemy.DataTypesKt" />
       <item itemvalue="Kotlin.udemy.MathOperationKt" />
+      <item itemvalue="Kotlin.udemy.ModifyVariableKt" />
+      <item itemvalue="Kotlin.udemy.LogicConditionKt" />
+      <item itemvalue="Kotlin.udemy.SimpleIfElseKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.udemy.SimpleIfElseKt" />
+        <item itemvalue="Kotlin.udemy.LogicConditionKt" />
+        <item itemvalue="Kotlin.udemy.ModifyVariableKt" />
         <item itemvalue="Kotlin.udemy.MathOperationKt" />
         <item itemvalue="Kotlin.udemy.DataTypesKt" />
-        <item itemvalue="Kotlin.FunctionalCollectionKt" />
-        <item itemvalue="Kotlin.AdditionKt" />
-        <item itemvalue="Application.GZipSample" />
       </list>
     </recent_temporary>
   </component>
