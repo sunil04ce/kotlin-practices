@@ -17,12 +17,11 @@ fun main() {
         println("A")
     }
 
-    if(grade in 70..79) {
-        println("C")
-    } else if (grade in 80..89) {
-        println("B")
-    } else {
-        println("Failed")
+    when (grade) {
+        100 -> println("Genius")
+        in 70..79 -> println("C")
+        in 80..89 -> println("B")
+        else -> println("Failed")
     }
 
 }
