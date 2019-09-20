@@ -37,13 +37,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549731482386" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/udemy/assignments" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/udemy" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy\assignments" />
       <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy" />
@@ -61,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemy.LinkedListDemoKt">
+  <component name="RunManager" selected="Kotlin.udemy.ImproveNestedLoopKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -81,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.ArrayDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.ArrayDemoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="udemy.ArrayListDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
@@ -102,6 +92,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="udemy.ArrayListDemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.HashMapDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.HashMapDemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.ImproveNestedLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.ImproveNestedLoopKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,19 +149,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.assignments.Assisgnment4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.assignments.Assisgnment4Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -165,19 +168,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udemy.assignments.Assisgnment4Kt" />
-      <item itemvalue="Kotlin.udemy.ArrayDemoKt" />
       <item itemvalue="Kotlin.udemy.StringDemoKt" />
       <item itemvalue="Kotlin.udemy.ArrayListDemoKt" />
       <item itemvalue="Kotlin.udemy.LinkedListDemoKt" />
+      <item itemvalue="Kotlin.udemy.HashMapDemoKt" />
+      <item itemvalue="Kotlin.udemy.ImproveNestedLoopKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.udemy.ImproveNestedLoopKt" />
+        <item itemvalue="Kotlin.udemy.HashMapDemoKt" />
         <item itemvalue="Kotlin.udemy.LinkedListDemoKt" />
         <item itemvalue="Kotlin.udemy.ArrayListDemoKt" />
         <item itemvalue="Kotlin.udemy.StringDemoKt" />
-        <item itemvalue="Kotlin.udemy.ArrayDemoKt" />
-        <item itemvalue="Kotlin.udemy.assignments.Assisgnment4Kt" />
       </list>
     </recent_temporary>
   </component>
