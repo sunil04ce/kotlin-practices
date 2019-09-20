@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c2453a3-7502-4fa8-8c2e-e5d3f81b6970" name="Default" comment="added new classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/udemy/ImproveNestedLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/ImproveNestedLoop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/HashMapDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/HashMapDemo.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemy.ImproveNestedLoopKt">
+  <component name="RunManager" selected="Kotlin.udemy.CollectionUpdateKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -92,6 +93,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="udemy.ArrayListDemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.CollectionUpdateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.CollectionUpdateKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,19 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.StringDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.StringDemoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -168,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udemy.StringDemoKt" />
       <item itemvalue="Kotlin.udemy.ArrayListDemoKt" />
       <item itemvalue="Kotlin.udemy.LinkedListDemoKt" />
       <item itemvalue="Kotlin.udemy.HashMapDemoKt" />
       <item itemvalue="Kotlin.udemy.ImproveNestedLoopKt" />
+      <item itemvalue="Kotlin.udemy.CollectionUpdateKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.udemy.ImproveNestedLoopKt" />
+        <item itemvalue="Kotlin.udemy.CollectionUpdateKt" />
         <item itemvalue="Kotlin.udemy.HashMapDemoKt" />
+        <item itemvalue="Kotlin.udemy.ImproveNestedLoopKt" />
         <item itemvalue="Kotlin.udemy.LinkedListDemoKt" />
         <item itemvalue="Kotlin.udemy.ArrayListDemoKt" />
-        <item itemvalue="Kotlin.udemy.StringDemoKt" />
       </list>
     </recent_temporary>
   </component>

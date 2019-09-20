@@ -1,7 +1,7 @@
 package udemy
 
 fun main() {
-    var listOfUsers = HashMap<Int, String>()
+    var listOfUsers = hashMapOf<Int, String>()
     listOfUsers[1] = "Android"
     listOfUsers[2] = "Sunil"
     listOfUsers[3] = "Parmar"
