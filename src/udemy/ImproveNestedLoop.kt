@@ -5,15 +5,18 @@ import kotlin.collections.HashMap
 
 fun main() {
     var listOfUsers = HashMap<String, LinkedList<String>>()
-    for (userID in 1..2) {
-        print("$userID : Enter your name : ")
+    while(true) {
+        print("Enter your name : ")
         val name = readLine()!!.toString()
-        print("$userID : Enter your living place : ")
+        if(name == "exit") {
+            break;
+        }
+        print("Enter your living place : ")
         val livingPlace = readLine()!!.toString()
 
         var listOfPets = LinkedList<String>()
         do {
-            print("Enter pet name or  type exit to quit")
+            print("Enter pet name or type exit to quit : ")
             var petName = readLine()!!.toString()
             if(petName!= "exit") {
                 listOfPets.add(petName)
@@ -24,6 +27,12 @@ fun main() {
     }
 
     for(key in listOfUsers.keys) {
-        println(key +"  :  " +listOfUsers[key])
+        var listOfPets = listOfUsers[key]
+        println("--------------")
+        println(key)
+        for(petName in listOfPets!!) {
+            println("pet name  :  $petName")
+        }
+
     }
 }

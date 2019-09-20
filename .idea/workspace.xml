@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c2453a3-7502-4fa8-8c2e-e5d3f81b6970" name="Default" comment="added new classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/ImproveNestedLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/ImproveNestedLoop.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
