@@ -1,4 +1,4 @@
-package udemy
+package udemy.datastructures
 
 import java.util.*
 

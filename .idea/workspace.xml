@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c2453a3-7502-4fa8-8c2e-e5d3f81b6970" name="Default" comment="added new classes">
+      <change afterPath="$PROJECT_DIR$/src/udemy/functions/FunctionOverloadAndPolymorphism.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/udemy/functions/FunctionSimple.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/udemy/functions/ScopeDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/udemy/HashMapDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/HashMapDemo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/ArrayDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/datastructures/ArrayDemo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/ArrayListDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/datastructures/ArrayListDemo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/CollectionUpdate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/datastructures/CollectionUpdate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/HashMapDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/datastructures/HashMapDemo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/ImproveNestedLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/datastructures/ImproveNestedLoop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/LinkedListDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/datastructures/LinkedListDemo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/StringDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/datastructures/StringDemo.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,18 +47,20 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549731482386" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/udemy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/udemy/datastructures" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy\datastructures" />
+      <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy\functions" />
+      <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy\assignments" />
       <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy\assignments" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Drive_E\Dev\workspace_kotlin\kotlin-practices\src\udemy" />
     </key>
   </component>
@@ -65,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemy.CollectionUpdateKt">
+  <component name="RunManager" selected="Kotlin.udemy.functions.LamdaDemoKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -85,66 +96,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.ArrayListDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.datastructures.CollectionUpdateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.ArrayListDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.datastructures.CollectionUpdateKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.CollectionUpdateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.functions.FunctionOverloadAndPolymorphismKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.CollectionUpdateKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.functions.FunctionOverloadAndPolymorphismKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.HashMapDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.functions.FunctionSimpleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.HashMapDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.functions.FunctionSimpleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.ImproveNestedLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.functions.LamdaDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.ImproveNestedLoopKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.functions.LamdaDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.LinkedListDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udemy.functions.ScopeDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.LinkedListDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="udemy.functions.ScopeDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -169,19 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udemy.ArrayListDemoKt" />
-      <item itemvalue="Kotlin.udemy.LinkedListDemoKt" />
-      <item itemvalue="Kotlin.udemy.HashMapDemoKt" />
-      <item itemvalue="Kotlin.udemy.ImproveNestedLoopKt" />
-      <item itemvalue="Kotlin.udemy.CollectionUpdateKt" />
+      <item itemvalue="Kotlin.udemy.datastructures.CollectionUpdateKt" />
+      <item itemvalue="Kotlin.udemy.functions.FunctionSimpleKt" />
+      <item itemvalue="Kotlin.udemy.functions.FunctionOverloadAndPolymorphismKt" />
+      <item itemvalue="Kotlin.udemy.functions.ScopeDemoKt" />
+      <item itemvalue="Kotlin.udemy.functions.LamdaDemoKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.udemy.CollectionUpdateKt" />
-        <item itemvalue="Kotlin.udemy.HashMapDemoKt" />
-        <item itemvalue="Kotlin.udemy.ImproveNestedLoopKt" />
-        <item itemvalue="Kotlin.udemy.LinkedListDemoKt" />
-        <item itemvalue="Kotlin.udemy.ArrayListDemoKt" />
+        <item itemvalue="Kotlin.udemy.functions.LamdaDemoKt" />
+        <item itemvalue="Kotlin.udemy.functions.ScopeDemoKt" />
+        <item itemvalue="Kotlin.udemy.functions.FunctionOverloadAndPolymorphismKt" />
+        <item itemvalue="Kotlin.udemy.functions.FunctionSimpleKt" />
+        <item itemvalue="Kotlin.udemy.datastructures.CollectionUpdateKt" />
       </list>
     </recent_temporary>
   </component>

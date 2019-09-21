@@ -1,4 +1,4 @@
-package udemy
+package udemy.datastructures
 
 fun main() {
     val name = "Sunil Hello bro"
