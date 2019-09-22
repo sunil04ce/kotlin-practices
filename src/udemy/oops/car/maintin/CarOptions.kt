@@ -1,9 +1,9 @@
 package udemy.oops.car.maintin
 
-class CarOptions() {
+open class CarOptions() {
     var type: String? = null
     var model: Int? = null
-    var price: Double? = null
+    private var price: Double? = null
     var milesDrive: Int? = 0
     var owner: String? = null
 
@@ -20,6 +20,14 @@ class CarOptions() {
         this.model = model
         this.price = price
         this.milesDrive = milesDrive
+    }
+
+    open val getCarPrice = {
+        price?.minus((milesDrive!!.toDouble() * 10))
+    }
+
+    val getPrice = { ->
+        this.price!!
     }
 }
 
