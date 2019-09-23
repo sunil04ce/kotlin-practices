@@ -2,7 +2,7 @@ package udemy.oops.car.maintin
 
 import java.util.*
 
-class PersonClass(var name:String, var age:Int) : Comparable<PersonClass> {
+class PersonClass(var name: String, var age: Int) : Comparable<PersonClass> {
     override fun compareTo(other: PersonClass): Int {
         return this.age - other.age
     }
@@ -20,6 +20,7 @@ fun main(args: Array<String>) {
 
     Collections.sort(listOfNames)
 
+    println("-------------------------------")
     listOfNames.forEach { person ->
         println("${person.name}  of age: ${person.age}")
     }

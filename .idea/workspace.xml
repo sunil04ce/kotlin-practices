@@ -4,6 +4,7 @@
     <list default="true" id="6c2453a3-7502-4fa8-8c2e-e5d3f81b6970" name="Default" comment="added new classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy/oops/car/maintin/ComparatorDemo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy/oops/car/maintin/ComparatorDemo.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.udemy.oops.car.maintin.ComparatorDemoKt">
+  <component name="RunManager" selected="Kotlin.udemy.multithreading.MyThreadKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -86,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="udemy.multithreading.MyThreadKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.multithreading.MyThreadKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="udemy.oops.car.maintin.ComparatorDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
@@ -99,45 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udemy.oops.car.maintin.EnumDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.oops.car.maintin.EnumDemoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="udemy.oops.car.maintin.GenericDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.oops.car.maintin.GenericDemoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="udemy.oops.car.maintin.NestedClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udemy.oops.car.maintin.NestedClassKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="udemy.oops.car.maintin.SingletonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
@@ -146,6 +121,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="udemy.oops.car.maintin.SingletonKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.storage.MyFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.storage.MyFileKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udemy.storage.TryCatchDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udemy.storage.TryCatchDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udemy.oops.car.maintin.EnumDemoKt" />
-      <item itemvalue="Kotlin.udemy.oops.car.maintin.GenericDemoKt" />
-      <item itemvalue="Kotlin.udemy.oops.car.maintin.NestedClassKt" />
       <item itemvalue="Kotlin.udemy.oops.car.maintin.SingletonKt" />
       <item itemvalue="Kotlin.udemy.oops.car.maintin.ComparatorDemoKt" />
+      <item itemvalue="Kotlin.udemy.storage.TryCatchDemoKt" />
+      <item itemvalue="Kotlin.udemy.storage.MyFileKt" />
+      <item itemvalue="Kotlin.udemy.multithreading.MyThreadKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.udemy.multithreading.MyThreadKt" />
+        <item itemvalue="Kotlin.udemy.storage.MyFileKt" />
+        <item itemvalue="Kotlin.udemy.storage.TryCatchDemoKt" />
         <item itemvalue="Kotlin.udemy.oops.car.maintin.ComparatorDemoKt" />
         <item itemvalue="Kotlin.udemy.oops.car.maintin.SingletonKt" />
-        <item itemvalue="Kotlin.udemy.oops.car.maintin.NestedClassKt" />
-        <item itemvalue="Kotlin.udemy.oops.car.maintin.GenericDemoKt" />
-        <item itemvalue="Kotlin.udemy.oops.car.maintin.EnumDemoKt" />
       </list>
     </recent_temporary>
   </component>
